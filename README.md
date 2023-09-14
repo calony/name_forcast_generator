@@ -1,4 +1,8 @@
-# name_forecast_generator
-- Visualization Web App deployment folder are linked [here](https://github.com/calony/baby_name_freq_visualization)
-- Time-series Forecast example below
-![forcast](https://github.com/calony/name_forcast_generator/blob/main/forcast.png)
+# Quebec Baby Name Project
+- Deploy a [Web App](https://baby-name-visualization-dash-app.onrender.com/) to visualize the changing popularity of Quebec baby names 
+- Build a ARIMA model to forecast baby name trends ([Jupyter Notebook](https://github.com/calony/name_forcast_generator/blob/main/name_forcasting.ipynb))
+![forecast](https://github.com/calony/name_forcast_generator/blob/main/forcast.png)
+- Implement a character-level language model to generate unique baby names ([Jupyter Notebook](https://github.com/calony/name_forcast_generator/blob/main/name_LSTM.ipynb)) and deployed the model with Flask
+- Data Source: [Donnee Quebec](https://www.donneesquebec.ca/recherche/dataset/banque-de-prenoms-garcons)
+- Tags: Plotly, Dash, Time Series Forecasting, LSTM, Language Model, Flask
+
